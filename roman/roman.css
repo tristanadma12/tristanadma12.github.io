@@ -1,0 +1,35 @@
+body {
+	background-color: #f2f2f2;
+	font-family: Arial, sans-serif;
+}
+
+#title {
+	color: #ff69b4;
+	font-size: 36px;
+	text-align: center;
+}
+
+#kata5 {
+	color: #666;
+	font-size: 24px;
+	text-align: center;
+}
+
+#btn-propose {
+	background-color: #4CAF50;
+	color: #fff;
+	padding: 10px 20px;
+	border: none;
+	border-radius: 5px;
+	cursor: pointer;
+}
+
+#btn-propose:hover {
+	background-color: #3e8e41;
+}
+
+#response {
+	color: #666;
+	font-size: 24px;
+	text-align: center;
+}
